@@ -1,0 +1,6 @@
+﻿  CSubMonoAlpha.cpp
+C:\Users\nadir\source\repos\main\CSubMonoAlpha\CSubMonoAlpha.cpp(37,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\nadir\source\repos\main\CSubMonoAlpha\CSubMonoAlpha.cpp(39,21): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\nadir\source\repos\main\CSubMonoAlpha\CSubMonoAlpha.cpp(101,11): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\nadir\source\repos\main\CSubMonoAlpha\CSubMonoAlpha.cpp(105,8): warning C4018: '<' : incompatibilité signed/unsigned
+  CSubMonoAlpha.vcxproj -> C:\Users\nadir\source\repos\main\Debug\CSubMonoAlpha.exe
